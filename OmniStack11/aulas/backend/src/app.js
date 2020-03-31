@@ -9,6 +9,7 @@ app.use(express.json());
 app.use(routes);
 app.use(errors());
 app.listen(3333, function(){
-  console.log("Servidor rodando");
+  console.log("Servidor rodando para test");
 });
 
+module.exports = app;
