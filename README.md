@@ -56,7 +56,7 @@ uma plataforma com metodologia prática, comunidade, eventos e conteúdos gratui
 
 ----
 ## Proff
-<p align="left">Em meio a pandemia muitas áreas sofrem mudanças extrema e a educação foi uma delas que mais sofrem mudanças como a forma de realizar as aulas e o contato com professores. O sistema Proffy, permite você encontrar diversos professores on-line, que oferecem aulas particulares e com horários flexíveis servindo como um reformo em meio a pandemia.
+<p align="left">Em meio a pandemia muitas áreas sofreram mudanças extremas e a educação foi uma delas que mais sofreu mudanças como a forma de realizar as aulas e o contato com professores. O sistema Proffy, permite você encontrar diversos professores on-line, que oferecem aulas particulares e com horários flexíveis servindo como um reforço em meio a pandemia.
 </p>
 
 [Ver repositório](https://github.com/andersonzeroone/Proff-Nlw)
