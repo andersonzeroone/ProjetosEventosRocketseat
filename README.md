@@ -12,8 +12,7 @@
 
 <p align="left">
 
-A  [Rocketseat](https://blog.rocketseat.com.br) é
-uma plataforma com metodologia prática, comunidade, eventos e conteúdos gratuitos que permitem uma conexão com o mercado de trabalho, o que ajuda programadores novatos a encontrar uma direção além de ajudar os experientes a adquirir novas habilidades e melhorar as já existentes. Alguns eventos são o OmniStack e o Next Level Week, cada evento é realizado durante uma semana, explorando tecnologias como Node.js, React, Native dentre outras. A seguir, alguns projetos de alguns edições desses eventos.
+A  [Rocketseat](https://blog.rocketseat.com.br) é uma plataforma com metodologia prática, comunidade, eventos e conteúdos gratuitos que permitem uma conexão com o mercado de trabalho, o que ajuda programadores novatos a encontrar uma direção além de ajudar os experientes a adquirir novas habilidades e melhorar as já existentes. Alguns eventos são o OmniStack e o Next Level Week, cada evento é realizado durante uma semana, explorando tecnologias como Node.js, React, Native dentre outras. A seguir, projetos de algumas edições desses eventos.
 </p>
 
 <br/>
@@ -119,7 +118,7 @@ uma plataforma com metodologia prática, comunidade, eventos e conteúdos gratui
 
 ## Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto está sob a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Anderson Pablo 👋🏽 [Entre em contato!](https://www.linkedin.com/in/anderson-pablo-js/)
 
